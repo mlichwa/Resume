@@ -45,6 +45,6 @@
 	$("#my_cloud").jQCloud(word_list, {shape: "rectangular"});
 
 	$('#print').click(function(){
-		window.print();
-   });
+		window.print();	
+  	});
   });
