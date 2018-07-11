@@ -8,6 +8,9 @@ body {
 }
 h3 a{
 	color: #196127;
+	display: block;
+	font-size: 19px;
+	margin-bottom: 10px;
 }
 
 .resume-wrapper {
@@ -175,9 +178,7 @@ header .contact-container .contact-list li span {
   color: #666 ;
   font-size: 16px ;
 }
-.project h3::after {
-  content: ' - ' ;
-}
+
 .project .detail {
   display: inline ;
   font-size: 14px ;
